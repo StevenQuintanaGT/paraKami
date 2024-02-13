@@ -11,5 +11,5 @@ function hacerCrecerBotonNo() {
 
 function redirigirAOtraPagina() {
     // Cambia la ubicación del navegador
-    window.location.href = '/si.html';
+    window.location.href = '../si.html';
 }
