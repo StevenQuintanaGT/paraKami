@@ -9,32 +9,36 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 100%;
+    padding: 0 30px 0 30px;
 }
 
 h2 {
     color: #BF3F92;
     font-size: 50px;
     margin-bottom: 30px;
+    text-align: center;
 }
 
 h3 {
     padding-top: 30px;
     color: #21445B;
+    text-align: center;
 }
 
 p {
     color: #2C3C90;
     font-size: 35px;
-    margin-left: 20px;  
+    margin: 20px;  
     text-align: center;  
 }
 
 img {
-    max-width: 100%;  
-    max-height: 100%;  
-     height: auto;
+    max-width: 100%;
+    margin-top: 20px;
+    height: auto;
 }
+
 
 .contenedor {
     display: flex;
